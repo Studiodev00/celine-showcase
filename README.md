@@ -41,7 +41,7 @@ Approved local Control Center renderer with synthetic data and operations disabl
 
 ## Development role
 
-Portfolio owner and developer: **Ak-Osama**, as identified by the owner of this project. This case study presents implementation and verification evidence. It does not attribute every module exclusively to one person or establish employment, team size or business results from commit history.
+Portfolio owner and developer: **Studio Dev (@Studiodev00)**, as identified by the owner of this project. This case study presents implementation and verification evidence. It does not attribute every module exclusively to one person or establish employment, team size or business results from commit history.
 
 ## Current boundaries
 
@@ -53,6 +53,6 @@ This repository contains selected documentation and images only. It is not a bui
 
 [Architecture](docs/ARCHITECTURE.md) · [Verified features](docs/FEATURES.md) · [Testing](docs/TESTING.md) · [Security](docs/SECURITY.md) · [Publication review](PUBLICATION_REVIEW.md)
 
-Existing public policy repository: [celine-docs](https://github.com/Ak-Osama/celine-docs). It is separate from this bot showcase and was not modified.
+Existing public policy repository: [celine-docs](https://github.com/Studiodev00/celine-docs). It is separate from this bot showcase and was not modified.
 
 No project source code may be uploaded to GitHub, publicly or privately. Only explicitly approved documentation and authorized images are eligible for publication.
